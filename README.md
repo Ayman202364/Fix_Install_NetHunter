@@ -7,8 +7,8 @@
 - cd Fix_Install_NetHunter
 - chmod +x install-nethunter-termux
 - ./install-nethunter-termux
-- ![https://github.com/Ayman202364/Fix_Install_NetHunter/blob/main/Screenshot_20250513_215505_Samsung%20Notes.jpg]
-- ![https://github.com/Ayman202364/Fix_Install_NetHunter/blob/main/Screenshot_20250513_215642_Samsung%20Notes.jpg]
+- ![choice one opetion according to your phone](https://github.com/Ayman202364/Fix_Install_NetHunter/blob/main/Screenshot_20250513_215505_Samsung%20Notes.jpg)
+- ![processing](https://github.com/Ayman202364/Fix_Install_NetHunter/blob/main/Screenshot_20250513_215642_Samsung%20Notes.jpg)
 - To start the CLInethunter•
 - To setup the NetHunter KeX passwordnethunter kex passwd• • • •
 - To start NetHunter KeX (Password will ve set on first startup)
